@@ -47,4 +47,3 @@ CATEGORIES: tuple[BMICategory, ...]= (
 	BMICategory("Overweight", 25, 30),
 	BMICategory("Obese", 30, None),
 )
-
